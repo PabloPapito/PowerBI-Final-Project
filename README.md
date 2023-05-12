@@ -1,3 +1,7 @@
-# PowerBI-Final-Project
+# PowerBI_Final_Project
+Tools: PowerBI, Excel
 
-Breaking down Professional Survey with Salary per Job Title
+-- Clean up the raw data from the survey results.
+
+-- Prepare visualization using PowerBI.
+
